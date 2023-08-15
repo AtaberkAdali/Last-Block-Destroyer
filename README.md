@@ -1,5 +1,15 @@
 # Last-Block
+Made using Unity version 2019.4.13f1
 
-Oyunu indirme linki: https://drive.google.com/drive/folders/1liFfnkhzKTdcXzadCxmVbOaWVjx8Q7Zm?usp=sharing
+*Project End Year : 2021*
 
-Bütün oyunların excel tablosu: https://studsduedutr-my.sharepoint.com/:x:/g/personal/l1911012052_stud_sdu_edu_tr/Eaa91LJWSz1DuKaTbrC3xycB2xga87ZZpX5BAC8DqkfLdg?e=BnsnsJ
+Game Download Link: https://ataberkadali.itch.io/destroy-blocks
+# Gameplay
+
+
+https://github.com/AtaberkAdali/Last-Block/assets/59842906/d00a965a-9061-42fc-9eb7-05a69dd9c2be
+
+
+
+https://github.com/AtaberkAdali/Last-Block/assets/59842906/ab746264-14b7-4d11-b560-a08648132e5a
+
